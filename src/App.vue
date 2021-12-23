@@ -78,6 +78,12 @@ export default {
           price: 10,
           country: "Afrika",
           image: "https://imgk.timesnownews.com/story/mangoes.gif?tr=w-400,h-300,fo-auto"
+        },
+        {
+          name: "Xurmo",
+          price: 11,
+          country: "Afrika",
+          image: "https://imgk.timesnownews.com/story/mangoes.gif?tr=w-400,h-300,fo-auto"
         }
       ]
     }
